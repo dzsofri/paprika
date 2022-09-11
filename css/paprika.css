@@ -1,0 +1,97 @@
+body{
+   width: 1000px;
+    margin: 0 auto;
+   background-color: #FFEFD5;
+   color: #8B4513;
+   font-family: 'Times New Roman', Times, serif;
+   
+}
+.keret{
+    
+  width: 1000px;
+   
+}
+.fejlec{
+   padding: 30px;
+   background-image: url(../sok.png);
+   background-repeat: no-repeat;
+   background-size: cover;
+   margin-bottom: 20px;
+   width: 1000px;
+}
+h1{
+   color: #383838;
+}
+.tartalom{
+    width: 685px;
+  float: right;
+   padding: 20px;
+   
+   
+}
+.menu{
+   width: 250px;
+  padding: 10px;
+   float: left;
+}
+p{
+   text-align: justify;
+}
+li{
+   padding-top: 10px;
+   padding-bottom: 5px;
+   padding-left: 5px;
+   list-style-image: url(../chili-pepper-icon.gif);
+   background-color: #f8f8f8;
+   margin: 10px;
+   border: 2px solid skyblue;
+   
+}
+li:hover{
+   background-color: rgb(38, 117, 28);
+
+   
+}
+a{
+   text-decoration: none;
+   color: #383838;
+   font-weight: bold;
+}
+a:hover{
+   color: white;
+}
+table{
+   width: 300px;
+   margin: 0 auto;
+   border-collapse: collapse;
+   font-weight: bold;
+}
+td{
+   border: 1px solid #838383;
+   padding: 5px;
+}
+#zold{
+   background-color: lawngreen;
+   width: 120px;
+}
+#sarga{
+   background-color: lightyellow;
+   width: 120px;
+}
+#piros{
+   background-color: lightcoral;
+   width: 120px;
+}
+#lila{
+   background-color: #cf61fc;
+   width: 120px;
+}
+.kozep{
+   text-align: center;
+   width: 120px;
+}
+
+h1, h2, td {
+   font-weight: bold;
+   margin-bottom: 20px;
+}
