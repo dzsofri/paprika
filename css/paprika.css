@@ -1,32 +1,32 @@
 body{
-   width: 1000px;
+   
     margin: 0 auto;
    background-color: #FFEFD5;
    color: #8B4513;
    font-family: 'Times New Roman', Times, serif;
    
 }
-.keret{
+.fokeret{
     
-  width: 1000px;
+  margin-left: 7%;
    
 }
 .fejlec{
    padding: 30px;
-   background-image: url(../sok.png);
+   background-image: url(../szines.png);
    background-repeat: no-repeat;
    background-size: cover;
    margin-bottom: 20px;
-   width: 1000px;
+   width: 90%;
+   
 }
 h1{
    color: #383838;
 }
 .tartalom{
-    width: 685px;
-  float: right;
-   padding: 20px;
-   
+    width: 900px;
+    float: right;
+   padding-right: 21%;
    
 }
 .menu{
@@ -44,7 +44,7 @@ li{
    list-style-image: url(../chili-pepper-icon.gif);
    background-color: #f8f8f8;
    margin: 10px;
-   border: 2px solid skyblue;
+   border: 2px solid rgb(2, 233, 233);
    
 }
 li:hover{
