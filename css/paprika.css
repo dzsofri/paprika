@@ -1,6 +1,6 @@
 body{
    
-    margin: 0 auto;
+    
    background-color: #FFEFD5;
    color: #8B4513;
    font-family: 'Times New Roman', Times, serif;
@@ -8,7 +8,7 @@ body{
 }
 .fokeret{
     
-  margin-left: 7%;
+  margin-left: 8%;
    
 }
 .fejlec{
@@ -23,18 +23,15 @@ body{
 h1{
    color: #383838;
 }
+
+
 .tartalom{
-    width: 900px;
-    float: right;
-   padding-right: 21%;
-   margin: 0 auto;
+    float: left;
+   
+
    
 }
-.menu{
-   width: 250px;
-  padding: 10px;
-   float: left;
-}
+
 p{
    text-align: justify;
 }
@@ -46,6 +43,7 @@ li{
    background-color: #f8f8f8;
    margin: 10px;
    border: 2px solid rgb(2, 233, 233);
+   width: 200px;
    
 }
 li:hover{
@@ -95,25 +93,4 @@ td{
 h1, h2, td {
    font-weight: bold;
    margin-bottom: 20px;
-}
-
-@media  (max-width:980px) {
-   .tartalom{
-      padding-left: 100px;
-      
-   }
-}
-
-@media  (max-width:860px) {
-   .tartalom{
-      padding-left: 200px;
-      
-   }
-}
-
-@media  (max-width:660px) {
-   .tartalom{
-      padding-left: 500px;
-      
-   }
 }
