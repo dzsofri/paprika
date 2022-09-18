@@ -8,8 +8,8 @@ body{
 }
 .fokeret{
     
-  margin-left: 8%;
-   
+  margin-left: 15%;
+  
 }
 .fejlec{
    padding: 30px;
@@ -17,7 +17,7 @@ body{
    background-repeat: no-repeat;
    background-size: cover;
    margin-bottom: 20px;
-   width: 90%;
+   width: 80%;
    
 }
 h1{
@@ -26,9 +26,9 @@ h1{
 
 
 .tartalom{
-    float: left;
    
-
+   
+margin-right: 45%;
    
 }
 
