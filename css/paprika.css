@@ -8,7 +8,7 @@ body{
 }
 .fokeret{
     
-  margin-left: 15%;
+  margin-left: 10%;
   
 }
 .fejlec{
@@ -17,18 +17,21 @@ body{
    background-repeat: no-repeat;
    background-size: cover;
    margin-bottom: 20px;
-   width: 80%;
+   width: 90%;
    
 }
 h1{
    color: #383838;
 }
-
+.menu {
+   margin-right: 10% ;
+}
 
 .tartalom{
    
    
-margin-right: 45%;
+margin-right: 15%;
+
    
 }
 
@@ -94,3 +97,18 @@ h1, h2, td {
    font-weight: bold;
    margin-bottom: 20px;
 }
+ @media (max-width:768px) {
+   .tartalom {
+      margin-left: 20%;
+   }
+ }
+ @media (min-width:895px) {
+   .tartalom {
+      margin-left: 10%;
+   }
+ }
+ @media (max-width:894px) {
+   .tartalom {
+      margin-left: 20%;
+   }
+ }
