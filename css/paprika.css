@@ -101,6 +101,16 @@ h1, h2, td {
    .tartalom {
       margin-left: 20%;
    }
+
+   .menu {
+      overflow: hidden;
+      background-color: #333;
+      position: relative;
+    }
+    
+   
+   
+    
  }
  @media (min-width:895px) {
    .tartalom {
