@@ -188,13 +188,14 @@ h1, h2, td {
    .row{
       padding-right: 15%;
    }
+   
     
  }
+ 
  @media (min-width:895px) {
    .tartalom {
       margin-left: 10%;
-   }
- }
+   } }
  @media (max-width:894px) {
    .tartalom {
       margin-left: 20%;
@@ -205,7 +206,5 @@ h1, h2, td {
    .hamburger, .close{
     visibility: hidden;
    }
-   .menu{
-      visibility: hidden;
-   }
+   
 }
