@@ -22,8 +22,12 @@ background: linear-gradient(90deg, rgba(255,243,212,1) 24%, rgba(255,255,255,1) 
    width: 90%;
    
 }
+h2{
+   text-shadow: 5px 5px 8px #888888;
+}
 h1{
    color: #383838;
+   
 }
 .menu {
    margin-right: 10% ;
@@ -156,7 +160,7 @@ h1, h2, td {
       transform: translateY(-100%);
       transition: transform 0.s ease;
       box-shadow: 5px 5px 8px #888888;
-      background-image: linear-gradient(#e4c39e, #ebdecf57);
+      background-image: linear-gradient(#ebad67, #ffc07957);
     }
     .menu:hover{
       background-color: #FFEFD5;
